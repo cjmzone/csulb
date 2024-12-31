@@ -1,0 +1,1 @@
+Child 1 writing to slot 0 in shared memory.
